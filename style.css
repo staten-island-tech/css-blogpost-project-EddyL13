@@ -1,3 +1,14 @@
 body {
-  background: #0000ff;
+  background-color: #0000ff;
+  color: #dda0dd;
+  font-size: 25px;
+}
+h1 {
+  color: #00ff00;
+}
+.main-header {
+  color: rgb(247, 0, 255);
+}
+.white-font {
+  color: #ffffff;
 }
