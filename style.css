@@ -1,14 +1,18 @@
 body {
-  background-color: #0000ff;
-  color: #dda0dd;
-  font-size: 25px;
-}
-h1 {
-  color: #00ff00;
+  background-color: #5cdb95;
+  color: #379683;
+  font-size: 35px;
 }
 .main-header {
-  color: rgb(247, 0, 255);
+  color: #edf5e1;
+  text-align: center;
+  margin: 50px;
+  background-color: #05386b;
+  border: 3px solid #379683;
 }
-.white-font {
-  color: #ffffff;
+span {
+  font-weight: bold;
+  color: #edf5e1;
+  font-size: 35px;
+  text-align: left;
 }
