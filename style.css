@@ -38,11 +38,30 @@ span {
   text-align: center;
 }
 
-.body-2 {
+.damn {
   color: #edf5e1;
   border: 3px solid #379683;
-  margin-top: 200px;
-  margin-right: -200px;
+  position: absolute top -100px left 50px;
+  margin-top: -110px;
+  margin-left: 740px;
+  height: 500px;
+  width: 500px;
+  background-color: #05386b;
+}
+.lol {
+  font-weight: bold;
+  color: #edf5e1;
+  font-size: 60px;
+  margin: 150px;
+  margin-top: -650px;
+  margin left: 
+}
+.um {
+  color: #edf5e1;
+  border: 3px solid #379683;
+  position: absolute top 50px left 50px;
+  margin-top: -110px;
+  margin-left: 1355px;
   height: 500px;
   width: 500px;
   background-color: #05386b;
