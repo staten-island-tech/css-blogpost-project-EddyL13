@@ -17,13 +17,20 @@ span {
   color: #edf5e1;
   font-size: 60px;
   margin: 150px;
+  position: absolute;
+  top: 150px;
+  left: -950;
+  margin-top: 50px;
+  margin-left: 1040px;
 }
 .body-1 {
   color: #edf5e1;
   border: 3px solid #379683;
-  position: absolute top 50px left 50px;
-  margin-top: -10px;
-  margin-left: 100px;
+  position: absolute;
+  top: 233;
+  left: -950;
+  margin-top: 50px;
+  margin-left: 1040px;
   height: 500px;
   width: 500px;
   background-color: #05386b;
@@ -34,16 +41,21 @@ span {
   color: #edf5e1;
   font-size: 60px;
   margin: 150px;
-  margin-top: -650px;
-  text-align: center;
+  position: absolute;
+  top: 150px;
+  left: -333;
+  margin-top: 50px;
+  margin-left: 1040px;
 }
 
 .damn {
   color: #edf5e1;
   border: 3px solid #379683;
-  position: absolute top -100px left 50px;
-  margin-top: -110px;
-  margin-left: 740px;
+  position: absolute;
+  top: 233;
+  left: -333;
+  margin-top: 50px;
+  margin-left: 1040px;
   height: 500px;
   width: 500px;
   background-color: #05386b;
@@ -53,16 +65,44 @@ span {
   color: #edf5e1;
   font-size: 60px;
   margin: 150px;
-  margin-top: -650px;
-  margin left: 
+  position: absolute;
+  top: 150px;
+  left: 281;
+  margin-top: 50px;
+  margin-left: 1040px;
 }
 .um {
   color: #edf5e1;
   border: 3px solid #379683;
-  position: absolute top 50px left 50px;
-  margin-top: -110px;
-  margin-left: 1355px;
+  position: absolute;
+  top: 233;
+  left: 281;
+  margin-top: 50px;
+  margin-left: 1040px;
   height: 500px;
   width: 500px;
   background-color: #05386b;
+}
+.pic-1 {
+  position: absolute;
+  top: 355;
+  left: 170;
+  width: 350px;
+  height: 350px;
+}
+
+.pic-2 {
+  position: absolute;
+  top: 355;
+  left: 785;
+  width: 350px;
+  height: 350px;
+}
+
+.pic-3 {
+  position: absolute;
+  top: 355;
+  left: 1400;
+  width: 350px;
+  height: 350px;
 }
