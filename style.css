@@ -106,3 +106,30 @@ span {
   width: 350px;
   height: 350px;
 }
+
+.href {
+  position: absolute;
+  top: 725;
+  left: 170;
+  width: 350px;
+  height: 350px;
+  color: #edf5e1;
+}
+
+.href2 {
+  position: absolute;
+  top: 725;
+  left: 785;
+  width: 350px;
+  height: 350px;
+  color: #edf5e1;
+}
+
+.href3 {
+  position: absolute;
+  top: 725;
+  left: 1400;
+  width: 350px;
+  height: 350px;
+  color: #edf5e1;
+}
