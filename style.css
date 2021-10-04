@@ -115,8 +115,8 @@ span {
 }
 
 .href2 {
-  position: absolute;
-  top: 725;
+  position: relative;
+  top: 545;
   left: 785;
   color: #edf5e1;
 }
